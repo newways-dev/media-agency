@@ -1,0 +1,16 @@
+.journal {
+  .title {
+    margin-top: 18px;
+    margin-bottom: 46px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+  }
+
+  .cards {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+}

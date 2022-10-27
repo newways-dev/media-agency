@@ -1,0 +1,23 @@
+.marquee {
+  -ms-overflow-style: none; /* for Internet Explorer, Edge */
+}
+
+::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}
+.list {
+  width: 100%;
+
+  margin-top: 120px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 70px;
+  font-size: 32px;
+
+  .item {
+    &:last-child {
+      margin-right: 70px;
+    }
+  }
+}

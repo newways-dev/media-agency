@@ -1,0 +1,19 @@
+.companies {
+  padding-top: 100px;
+
+  display: flex;
+  align-items: center;
+  gap: 75px;
+
+  overflow: hidden;
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+
+  ::-webkit-scrollbar {
+    width: 0 !important;
+  }
+
+  overflow: -moz-scrollbars-none;
+}

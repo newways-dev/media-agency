@@ -1,0 +1,32 @@
+.industry {
+  margin-top: 45px;
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 85px;
+  row-gap: 45px;
+
+  .list {
+    max-width: 250px;
+    width: 100%;
+
+    list-style: none;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 20px;
+
+    .title {
+      font-weight: 400;
+      font-size: 21px;
+      line-height: 26px;
+    }
+
+    .item {
+      cursor: pointer;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 20px;
+    }
+  }
+}

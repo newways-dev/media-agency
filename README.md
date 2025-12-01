@@ -1,46 +1,70 @@
-# Getting Started with Create React App
+# 🎨 Media Agency - Freelance Study Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.8.4-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-1.55.0-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React Scripts](https://img.shields.io/badge/React_Scripts-5.0.1-09D3AC?style=for-the-badge&logo=react&logoColor=white)
 
-In the project directory, you can run:
+*This project was developed as a freelance assignment where I helped a student complete their educational project while teaching and mentoring throughout the development process*
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 📖 About
 
-### `npm test`
+This project was created as a **freelance assignment** where I worked closely with a student to help them complete their educational project. Throughout the development process, I provided guidance, mentorship, and hands-on teaching, helping them learn modern React development practices, TypeScript, and advanced UI/UX techniques while building a professional portfolio website.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛠 Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Core Technologies
+<div align="center">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+| Category | Technology | Version |
+|----------|-----------|---------|
+| **Library** | ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=black) | 18.2.0 |
+| **Language** | ![TypeScript](https://img.shields.io/badge/TypeScript-4.8.4-3178C6?logo=typescript&logoColor=white) | 4.8.4 |
+| **Styling** | ![SASS](https://img.shields.io/badge/SASS-1.55.0-CC6699?logo=sass&logoColor=white) | 1.55.0 |
+| **Build Tool** | ![Create React App](https://img.shields.io/badge/CRA-5.0.1-09D3AC?logo=create-react-app&logoColor=white) | 5.0.1 |
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+</div>
 
-### `npm run eject`
+### Key Libraries
+<div align="center">
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+| Library | Purpose | Version |
+|---------|---------|---------|
+| **React Fast Marquee** | Infinite scrolling company logos | 1.3.5 |
+| **React Intersection Observer** | Scroll-based section detection | 9.4.0 |
+| **React SVG** | SVG icon and graphic rendering | 15.1.10 |
+| **clsx** | Conditional class name utility | 1.2.1 |
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+</div>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Development Tools
+<div align="center">
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![Testing Library](https://img.shields.io/badge/Testing_Library-13.4.0-E33332?logo=testing-library&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-27.5.2-C21325?logo=jest&logoColor=white)
+![Web Vitals](https://img.shields.io/badge/Web_Vitals-2.1.4-4285F4?logo=google&logoColor=white)
 
-## Learn More
+</div>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🎓 Educational Aspects
+
+This project served as an excellent learning opportunity, covering:
+
+- **React Fundamentals**: Components, hooks, state management
+- **TypeScript**: Type definitions, interfaces, type safety
+- **Modern React Patterns**: Functional components, hooks, forward refs
+- **Advanced Libraries**: Intersection Observer, Marquee, SVG handling
+- **Styling**: SCSS Modules, responsive design, animations
+- **Project Structure**: Component organization, file structure
+- **Best Practices**: Code organization, naming conventions, component composition
+

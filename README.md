@@ -7,15 +7,13 @@
 ![SASS](https://img.shields.io/badge/SASS-1.55.0-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React Scripts](https://img.shields.io/badge/React_Scripts-5.0.1-09D3AC?style=for-the-badge&logo=react&logoColor=white)
 
-*This project was developed as a freelance assignment where I helped a student complete their educational project while teaching and mentoring throughout the development process*
-
 </div>
 
 ---
 
 ## 📖 About
 
-This project was created as a **freelance assignment** where I worked closely with a student to help them complete their educational project. Throughout the development process, I provided guidance, mentorship, and hands-on teaching, helping them learn modern React development practices, TypeScript, and advanced UI/UX techniques while building a professional portfolio website.
+This project was created as a **freelance assignment** where I worked closely with a student to help them complete their educational project. Throughout the development process, I provided guidance, mentorship, and hands-on teaching, helping them learn modern React development practices, TypeScript, and advanced UI/UX techniques while building a study portfolio website.
 
 ---
 
@@ -44,17 +42,6 @@ This project was created as a **freelance assignment** where I worked closely wi
 | **clsx** | Conditional class name utility | 1.2.1 |
 
 </div>
-
-### Development Tools
-<div align="center">
-
-![Testing Library](https://img.shields.io/badge/Testing_Library-13.4.0-E33332?logo=testing-library&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-27.5.2-C21325?logo=jest&logoColor=white)
-![Web Vitals](https://img.shields.io/badge/Web_Vitals-2.1.4-4285F4?logo=google&logoColor=white)
-
-</div>
-
----
 
 ## 🎓 Educational Aspects
 
